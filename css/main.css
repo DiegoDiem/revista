@@ -1,13 +1,26 @@
 :root {
-    --fuenteHeading:'PT Sans', sans-serif;
-    --fuenteParrafos: 'Open Sans', sans-serif;
-
-    --primario:#784D3C;
+    /* ------ Colores ------*/
+    --verdeMain:#00B60F;
+    --verdeSecond:#6EFF00;
+    
     --gris:#e1e1e1;
     --blanco:#ffffff;
     --negro:#000000;
+    --background:#f2f7f5;
+    --principal:#00473e;
+    --texto:#475d5b;
+    --secundario:#faae2b;
+    --tercero:#fa5246;
+    
+    /* ----- Fuente ------ */
+    --fuenteHeading:'PT Sans', sans-serif;
+    --fuenteParrafos: 'Open Sans', sans-serif;
 
-
+    /* ----- Grosos fuente ------ */
+    --delgada:300;
+    --regular:400;
+    --bold:700;
+    --black:900;
 }
 html{
     box-sizing: border-box;
